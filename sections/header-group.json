@@ -1,0 +1,78 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message_43xPMD": {
+          "type": "message",
+          "settings": {
+            "text": "🎃Halloween sale on! Extra $200 OFF!",
+            "url": "https://www.yozmasport.com/products/in-10?_pos=1&_psq=IN+10&_ss=e&_v=1.0"
+          }
+        },
+        "message_xWYPFz": {
+          "type": "message",
+          "settings": {
+            "text": "👻Halloween Spooky Sale – Oct.20 to Nov.2!",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message_43xPMD",
+        "message_xWYPFz"
+      ],
+      "settings": {
+        "enable_sticky": false,
+        "navigation_mode": "arrows",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "scrolling_speed": 10,
+        "text_size": "text-base",
+        "background": "#8c0000",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "enable_sticky": true,
+        "hide_on_scroll": true,
+        "logo": "shopify://shop_images/1eae7ae6ce239862c44d09c80b59d31e.png",
+        "logo_max_width": 130,
+        "logo_mobile_max_width": 100,
+        "menu": "main-menu",
+        "sidebar_menu": "",
+        "secondary_menu": "",
+        "menu_open_trigger": "hover",
+        "opening_from": "bottom",
+        "layout": "logo_left_navigation_center",
+        "show_social_media": true,
+        "show_locale_selector": true,
+        "show_country_selector": true,
+        "show_country_flag": true,
+        "show_country_name": false,
+        "transparent_header_text_color": "#ffffff",
+        "reduce_padding": false,
+        "background_opacity": 100,
+        "background_blur_radius": 0
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

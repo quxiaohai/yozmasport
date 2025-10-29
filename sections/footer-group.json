@@ -1,0 +1,164 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "free-shipping": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Tell your customers about your shipping offer.</p>"
+          }
+        },
+        "customer-support": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": "<p>Tell your customers how they can reach you.</p>"
+          }
+        },
+        "item_nfYCYh": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Heading",
+            "content": "<p>Short content about your store</p>"
+          }
+        },
+        "discount": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-file",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "1 Year Warranty",
+            "content": "<p>Quality you can trust, coverage you deserve.</p>"
+          }
+        },
+        "payment": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Tel your customers about your payment methods.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "free-shipping",
+        "customer-support",
+        "item_nfYCYh",
+        "discount",
+        "payment"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h6",
+        "text_alignment": "center",
+        "icon_spacing": "small",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "image": "shopify://shop_images/a607d88492630a4fc0e1169570fcd150.png",
+            "image_width": 160,
+            "heading_size": "h5",
+            "title": "Sign up for new stories and personal offers",
+            "content": "<p>We Are Here To Help</p><ul><li>Support: support@yozmasport.com</li><li>Representative: US+1(866)591-5099</li><li>Mon - Fri: 9AM - 4PM (PST)</li><li>Website Live Chat：5PM - 7AM (PST)</li></ul><p>Due to recent surge in traffic, we apologize for any delayed response.</p><p>Address: United States, Denver Colorado 80202</p>"
+          }
+        },
+        "links_8UEx4m": {
+          "type": "links",
+          "settings": {
+            "menu": "support",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "links_9QcAUp": {
+          "type": "links",
+          "settings": {
+            "menu": "company",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "newsletter",
+        "links_8UEx4m",
+        "links_9QcAUp",
+        "links"
+      ],
+      "custom_css": [],
+      "settings": {
+        "show_social_media": true,
+        "show_payment_icons": true,
+        "show_policy_links": true,
+        "show_country_selector": true,
+        "show_country_flag": true,
+        "show_country_name": true,
+        "show_locale_selector": true
+      }
+    }
+  },
+  "order": [
+    "text-with-icons",
+    "footer"
+  ]
+}

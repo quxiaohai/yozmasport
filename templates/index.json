@@ -1,0 +1,1548 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_xYHx4G": {
+      "type": "slideshow",
+      "blocks": {
+        "image_p6g7Ua": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/43d125fb86b8b9abe49b61d1f3dc3535.png",
+            "mobile_image": "shopify://shop_images/9eaa872418ce95f409ea7afcc702e823.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_zkkzFi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/KV-PC_95986ef1-9b0e-4a18-b243-a5df20999c97.png",
+            "mobile_image": "shopify://shop_images/KV-M.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_p6g7Ua",
+        "image_zkkzFi"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "image_with_text_overlay_EJYC7z": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_9YT9cg": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Limited Early Bird Package"
+          }
+        },
+        "heading_PE6Ffq": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "IN 10: Explore the future <br>of off-road riding",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_6VAmxW": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Only 50 Units Available - $300 OFF - $1,299</p>"
+          }
+        },
+        "button_CtbD6C": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Shop Now",
+            "url": "https://www.yozmasport.com/products/in-10?_pos=1&_psq=IN+10&_ss=e&_v=1.0",
+            "background": "#ffffff",
+            "text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_9YT9cg",
+        "heading_PE6Ffq",
+        "richtext_6VAmxW",
+        "button_CtbD6C"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "image-banner {display: block;}",
+        "image-banner > .place-self-start-center {left: 18%; top: 62%; position: absolute;}",
+        "@media (max-width: 767px) {.prose .button {display: none; }}"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "md",
+        "image": "shopify://shop_images/43d125fb86b8b9abe49b61d1f3dc3535.png",
+        "mobile_image": "shopify://shop_images/9eaa872418ce95f409ea7afcc702e823.png",
+        "mobile_text_position": "place-self-start-center text-center",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "countdown_zKnhDT": {
+      "type": "countdown",
+      "blocks": {
+        "countdown_RYqTLG": {
+          "type": "countdown",
+          "settings": {
+            "countdown_lbl": "Hurry up!",
+            "countdown_lbl_content": "Early Bird Ends in",
+            "countdown_date": "2025-09-22T00:00:00",
+            "countdown_days": "DAYS",
+            "countdown_hours": "HRS",
+            "countdown_minutes": "MIN",
+            "countdown_seconds": "SEC",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "countdown_RYqTLG"
+      ],
+      "disabled": true,
+      "name": "Countdown",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "linear-gradient(234deg, rgba(231, 64, 40, 1), rgba(219, 35, 53, 1) 100%, rgba(255, 140, 162, 1) 100%)"
+      }
+    },
+    "newsletter_bpkTDw": {
+      "type": "newsletter",
+      "name": "Newsletter",
+      "settings": {
+        "fixed_mode": true,
+        "full_width": true,
+        "show_icon": false,
+        "title": "",
+        "content": "<p><strong>Secure Your Discount  Now！</strong></p>",
+        "button_text": "Subscribe",
+        "subtext": "",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "video_CKdi7n": {
+      "type": "video",
+      "blocks": {
+        "play_cgXPA7": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "play_cgXPA7"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/精简20-25s 1(1)-0904.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_TdPJQE": {
+      "type": "rich-text",
+      "blocks": {
+        "image_wgFFBi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/a4fd3f402903596b6b470bbda44e7c64_321bf2c2-59a6-4150-9060-d8fffde44a1e.png",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "text_list_CchAbk": {
+          "type": "text_list",
+          "settings": {
+            "title_1": "<b>2600W</b>",
+            "con_1": "Motor",
+            "title_2": "<b>146N.M</b>",
+            "con_2": "Torque",
+            "title_3": "<b>28-40Mph</b>",
+            "con_3": "Top Speed",
+            "title_4": "<b>23.4Ah</b>",
+            "con_4": "Lithium Battery"
+          }
+        },
+        "button_list_BeMkTD": {
+          "type": "button_list",
+          "settings": {
+            "product": "in-10",
+            "text_1": "Add to Cart",
+            "url_1": "shopify://products/in-10",
+            "text_2": "Explore More",
+            "url_2": "shopify://products/in-10"
+          }
+        }
+      },
+      "block_order": [
+        "image_wgFFBi",
+        "text_list_CchAbk",
+        "button_list_BeMkTD"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multicolumn_slide_2508_m8TBz7": {
+      "type": "multicolumn-slide-2508",
+      "blocks": {
+        "item_T7jXig": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/b37921b961e5adb84e66048a85bbee72_1511c702-c155-440e-90bb-63d5f8e87556.png",
+            "title": "53 Miles Range",
+            "content": "1123Wh High-Capacity Battery"
+          }
+        },
+        "item_JKdi3m": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/b2208997796404686d410545e99a4256.png",
+            "title": "Full Suspension",
+            "content": "Front & Rear Suspension Absorb Shocks"
+          }
+        },
+        "item_VAFiMj": {
+          "type": "item",
+          "settings": {
+            "img": "shopify://shop_images/56a85e16a046cb332aca2019e675a194_491796cc-cbb9-4650-85c2-836c0ee1f723.png",
+            "title": "Explosive Acceleration",
+            "content": "2600W Powerful Motor"
+          }
+        }
+      },
+      "block_order": [
+        "item_T7jXig",
+        "item_JKdi3m",
+        "item_VAFiMj"
+      ],
+      "name": "Multicolumn slide",
+      "settings": {
+        "col_num": "3",
+        "txt_size": "lg",
+        "item_bg_gd": "linear-gradient(146deg, rgba(240, 240, 240, 1) 100%, rgba(255, 255, 255, 1) 100%)",
+        "full_width": true,
+        "text_alignment_title": "start",
+        "subheading": "",
+        "title": "",
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#1a1a1a"
+      }
+    },
+    "feature_chart_RFnqYz": {
+      "type": "feature-chart",
+      "blocks": {
+        "block-1": {
+          "type": "headings",
+          "settings": {
+            "heading_1": "Brand",
+            "heading_2": "Motor",
+            "heading_3": "Max Speed",
+            "heading_4": "Range",
+            "heading_5": "Battery",
+            "heading_6": "Charging Time",
+            "heading_7": "Warranty",
+            "heading_8": "",
+            "heading_9": "",
+            "heading_10": "",
+            "heading_11": "",
+            "heading_12": "",
+            "heading_13": "",
+            "heading_14": "",
+            "heading_15": "",
+            "heading_16": "",
+            "heading_17": "",
+            "heading_18": "",
+            "heading_19": "",
+            "heading_20": ""
+          }
+        },
+        "block-2": {
+          "type": "values",
+          "settings": {
+            "product": "yozma-in-10",
+            "value_1": "<p>Yozma IN 10</p>",
+            "value_2": "<p>2600W Peak</p><p>Mid-drive motor</p>",
+            "value_3": "<p>28MPH</p>",
+            "value_4": "<p>53Miles</p>",
+            "value_5": "<p>48V 23.4AH</p>",
+            "value_6": "<p>5-6 Hours</p>",
+            "value_7": "<p>12 Months</p>",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        },
+        "block-3": {
+          "type": "values",
+          "settings": {
+            "product": "txxxxx-brand",
+            "value_1": "<p>Txxxxx Brand</p>",
+            "value_2": "<p>2000W Peak</p><p> Rear hub motor</p>",
+            "value_3": "<p>37MPH</p>",
+            "value_4": "<p>43Miles</p>",
+            "value_5": "<p>48V 21AH</p>",
+            "value_6": "<p>6-7 Hours</p>",
+            "value_7": "<p>6 Months</p>",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        },
+        "values_87gJjJ": {
+          "type": "values",
+          "settings": {
+            "product": "rxxx-txxxx-brand",
+            "value_1": "<p>Rxxxxx Txxxx Brand</p>",
+            "value_2": "<p>2000W Peak</p><p>Hub motor</p>",
+            "value_3": "<p>40MPH</p>",
+            "value_4": "<p>62Miles</p>",
+            "value_5": "<p>48V 27AH</p>",
+            "value_6": "<p>8.5-9 Hours</p>",
+            "value_7": "<p>18 Months</p>",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-2",
+        "block-3",
+        "values_87gJjJ"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "subheading": "Compare",
+        "title": "Product Differences at a Glance.",
+        "content": "<p><strong>Unleash the Beast | </strong><em>More Power. More Stability. Total Freedom.</em></p>",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "max_rows": 5,
+        "view_all_text": "",
+        "view_less_text": "",
+        "view_product": "",
+        "viewing_product": "",
+        "show_product_swatch": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "chart_background": "",
+        "chart_text_color": "",
+        "chart_true_false_color": ""
+      }
+    },
+    "multicolumn_slide_2508_NQ7iEX": {
+      "type": "multicolumn-slide-2508",
+      "blocks": {
+        "video_nLminf": {
+          "type": "video",
+          "settings": {
+            "external_video_url": "https://www.youtube.com/watch?v=aE6JMTf3sE4&t=78s",
+            "poster_image": "shopify://shop_images/aE6JMTf3sE4-HD.jpg",
+            "show_video_controls": false,
+            "title": "Rawstuntz",
+            "content": ""
+          }
+        },
+        "video_HBBdxJ": {
+          "type": "video",
+          "settings": {
+            "external_video_url": "https://www.youtube.com/watch?v=1BWf9zQho1g",
+            "poster_image": "shopify://shop_images/1BWf9zQho1g-HD.jpg",
+            "show_video_controls": false,
+            "title": "oneway_lilman",
+            "content": ""
+          }
+        },
+        "video_QTWrW6": {
+          "type": "video",
+          "settings": {
+            "external_video_url": "https://www.youtube.com/watch?v=6WoQyfm8BJk&t=88s",
+            "poster_image": "shopify://shop_images/6WoQyfm8BJk-HD.jpg",
+            "show_video_controls": false,
+            "title": "Phethanfix",
+            "content": ""
+          }
+        },
+        "video_CUhWpQ": {
+          "type": "video",
+          "settings": {
+            "external_video_url": "https://www.youtube.com/watch?v=q5yuYyrjNA8",
+            "poster_image": "shopify://shop_images/q5yuYyrjNA8-HD.jpg",
+            "show_video_controls": false,
+            "title": "Pat Outdoors",
+            "content": ""
+          }
+        },
+        "video_aaeQ7w": {
+          "type": "video",
+          "settings": {
+            "external_video_url": "https://youtu.be/UIFm5cPpgBs",
+            "poster_image": "shopify://shop_images/UIFm5cPpgBs-HD.jpg",
+            "show_video_controls": false,
+            "title": "ENDOPRYSM",
+            "content": ""
+          }
+        },
+        "video_UUdaPm": {
+          "type": "video",
+          "settings": {
+            "external_video_url": "https://www.youtube.com/watch?v=kEY9Swu_WsM&t=4s",
+            "poster_image": "shopify://shop_images/kEY9Swu_WsM-HD.jpg",
+            "show_video_controls": false,
+            "title": "Talaria Boys",
+            "content": ""
+          }
+        },
+        "video_d4yAGH": {
+          "type": "video",
+          "settings": {
+            "external_video_url": "https://www.youtube.com/watch?v=cozJD_tbc8w&t=335s",
+            "poster_image": "shopify://shop_images/cozJD_tbc8w-HD.jpg",
+            "show_video_controls": false,
+            "title": "RunPlayBack",
+            "content": ""
+          }
+        },
+        "video_rbTqcK": {
+          "type": "video",
+          "settings": {
+            "external_video_url": "https://www.youtube.com/watch?v=OOfKD0pgGNw&t=6s",
+            "poster_image": "shopify://shop_images/OOfKD0pgGNw-HD.jpg",
+            "show_video_controls": false,
+            "title": "Voltron Watts",
+            "content": ""
+          }
+        },
+        "video_RGeY3i": {
+          "type": "video",
+          "settings": {
+            "external_video_url": "https://www.youtube.com/watch?v=nX09VC134F4",
+            "poster_image": "shopify://shop_images/nX09VC134F4-HD.jpg",
+            "show_video_controls": false,
+            "title": "Rozzy",
+            "content": ""
+          }
+        },
+        "video_UULCPr": {
+          "type": "video",
+          "settings": {
+            "external_video_url": "https://www.youtube.com/watch?v=2znTSsjJzwo&t=77s",
+            "poster_image": "shopify://shop_images/2znTSsjJzwo-HD.jpg",
+            "show_video_controls": false,
+            "title": "dns",
+            "content": ""
+          }
+        },
+        "video_9Xn3N8": {
+          "type": "video",
+          "settings": {
+            "external_video_url": "https://www.youtube.com/watch?v=qQTwlrbZO3E",
+            "poster_image": "shopify://shop_images/qQTwlrbZO3E-SD.jpg",
+            "show_video_controls": false,
+            "title": "szamuca",
+            "content": ""
+          }
+        },
+        "video_9j3w4Y": {
+          "type": "video",
+          "settings": {
+            "external_video_url": "https://youtu.be/hhh1sNrdGG4",
+            "poster_image": "shopify://shop_images/hhh1sNrdGG4-HD.jpg",
+            "show_video_controls": false,
+            "title": "Caleb Moll",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_nLminf",
+        "video_HBBdxJ",
+        "video_QTWrW6",
+        "video_CUhWpQ",
+        "video_aaeQ7w",
+        "video_UUdaPm",
+        "video_d4yAGH",
+        "video_rbTqcK",
+        "video_RGeY3i",
+        "video_UULCPr",
+        "video_9Xn3N8",
+        "video_9j3w4Y"
+      ],
+      "name": "Multicolumn slide",
+      "settings": {
+        "col_num": "3",
+        "txt_size": "md",
+        "item_bg_gd": "linear-gradient(180deg, rgba(240, 240, 240, 1) 100%, rgba(82, 218, 236, 1) 100%)",
+        "full_width": true,
+        "text_alignment_title": "start",
+        "subheading": "",
+        "title": "Rider Reviews",
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "section-10": {
+      "type": "press",
+      "blocks": {
+        "block-1": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/cleantechnica-logo2.png",
+            "logo_width": 170,
+            "author": "",
+            "content": "On steep inclines, Yozma’s mid-drive climbs where hub motors struggle. It feels closer to a gas dirt bike than an e-commuter, which makes a massive difference for adventurous riders.",
+            "show_rating": false,
+            "rating": 4
+          }
+        },
+        "block-2": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/avrider-logo.jpg",
+            "logo_width": 200,
+            "author": "",
+            "content": "The  2600 W mid‑drive outperforms hub motors on steep terrain, delivering a riding experience closer to a gas dirt bike. Yozma IN 10 is for serious off-roaders, backyard explorers, and e-adventure pioneers alike.",
+            "show_rating": false,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "1756278725ce78192a": {
+      "type": "_blocks",
+      "settings": {}
+    },
+    "1756281249d3110547": {
+      "type": "_blocks",
+      "settings": {}
+    },
+    "multiple_images_with_text_R4U9kq": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_zA7mqV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/DSC00490_1_14376709-264a-45f1-a10c-2298924a44a5.png",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "A Dirt Bike for All Riders",
+            "content": "<p>From child's first ride to a parent's adventure, the dirt bike fits riders 120-175 cm. Perfect for sharing laugher, creating memories, and enjoying off-road fun together.</p><p>Every ride brings excitement and connection for all.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_yxtfqe": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "The Story Behind Yozmasport",
+            "content": "<p><strong>Yozmasport began with a simple question from my child: “Can I ride one someday?”</strong>  <br/></p><p>I wanted to build something electric, safe, and exciting—real riding, not a toy.<br/>With a small team, we created a compact electric motorcycle: powerful, durable, and fun. Yozmasport is for every rider—young or old, girl or boy—who craves thrill with safety and sustainability.<br/></p><p>This isn't just a product—it's a promise. Let’s empower every ride, for every dreamer.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_zA7mqV",
+        "item_yxtfqe"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "img_pos": "tw-order-1",
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "multi_column_4gWEkd": {
+      "type": "multi-column",
+      "blocks": {
+        "item_DGwHgA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Rectangle_49928.png",
+            "show_controls": false,
+            "column_size": "3",
+            "title": "Robert",
+            "heading_tag": "h5",
+            "content": "<p>Great quality and super fast for what you pay. The suspension’s really solid too.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JPgmfw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Rectangle_49916.png",
+            "show_controls": false,
+            "column_size": "3",
+            "title": "Mery",
+            "heading_tag": "h5",
+            "content": "<p>Got this e-bike for my 16-year-old nephew, but honestly… I kinda want one too! The design’s super sleek, and it actually keeps up with — maybe even beats — a dirt bike in terms of performance.<br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jhJdNj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Rectangle_49926.png",
+            "show_controls": false,
+            "column_size": "3",
+            "title": "Sam",
+            "heading_tag": "h5",
+            "content": "<p>With a full charge and going all out, I’ve hit 38 mph ( that’s seriously fast. Honestly, it feels a little wild if you’re on the sidewalk).I‘m thinking about grabbing a second one so my oldest can ride this one and we can cruise together.<br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_DGwHgA",
+        "item_JPgmfw",
+        "item_jhJdNj"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment_title": "start",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Pionner Tester Reviews",
+        "content": "",
+        "title_width": "default",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_grid_w7c9Wj": {
+      "type": "media-grid",
+      "blocks": {
+        "image_TXhj4h": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8590.heic",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-end text-end",
+            "desktop_column_span_mb": 1,
+            "desktop_row_span_mb": 2,
+            "desktop_column_span": 1,
+            "desktop_row_span": 3,
+            "desktop_text_position": "sm:place-self-end sm:text-end",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_WQck9t": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/photo-32.png",
+            "title": "",
+            "heading_tag": "h5",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-start-center text-center",
+            "desktop_column_span_mb": 2,
+            "desktop_row_span_mb": 1,
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-start-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_33h8VT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/DSC00571_1_1.png",
+            "title": "",
+            "heading_tag": "h6",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_column_span_mb": 2,
+            "desktop_row_span_mb": 1,
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_tFTYew": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/photo-34_19f8d119-298a-471b-b847-c41c0317a822.jpg",
+            "title": "",
+            "heading_tag": "h3",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-start text-start",
+            "desktop_column_span_mb": 2,
+            "desktop_row_span_mb": 1,
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-start sm:text-start",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_6c8YDd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/image00016_744cac1c-ca58-464c-b495-667a959f277a.jpg",
+            "title": "",
+            "heading_tag": "h5",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-end-start text-start",
+            "desktop_column_span_mb": 2,
+            "desktop_row_span_mb": 2,
+            "desktop_column_span": 1,
+            "desktop_row_span": 3,
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_gUqXdQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8578.jpg",
+            "title": "",
+            "heading_tag": "h5",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_column_span_mb": 2,
+            "desktop_row_span_mb": 2,
+            "desktop_column_span": 1,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_KypnCp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/101-DSCF7897-2.jpg",
+            "title": "",
+            "heading_tag": "h5",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_column_span_mb": 1,
+            "desktop_row_span_mb": 2,
+            "desktop_column_span": 1,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_7D9Vry": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/DSC00490_1_14376709-264a-45f1-a10c-2298924a44a5.png",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-end-center text-center",
+            "desktop_column_span_mb": 1,
+            "desktop_row_span_mb": 2,
+            "desktop_column_span": 1,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_ThGx6e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/6a0f48436f03bf48e8c7f28f9f150b4c.png",
+            "title": "",
+            "heading_tag": "h5",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_column_span_mb": 1,
+            "desktop_row_span_mb": 2,
+            "desktop_column_span": 1,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_TXhj4h",
+        "image_WQck9t",
+        "image_33h8VT",
+        "image_tFTYew",
+        "image_6c8YDd",
+        "image_gUqXdQ",
+        "image_KypnCp",
+        "image_7D9Vry",
+        "image_ThGx6e"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": false,
+        "reduce_width": false,
+        "grid_gap": "sm",
+        "desktop_row_height": 150,
+        "mobile_row_height": 120,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
+    "image_link_blocks_QHKndz": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_jbtpdz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image00016.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_RM9EfV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8578.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_476a9P": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/101-DSCF7897-2.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_w8F6Y4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1473.heic",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_4aTpJX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/photo-44.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_AaaWMk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8567.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_7keTfb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/DSC00571_1.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_ikyhjT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image0.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_jbtpdz",
+        "item_RM9EfV",
+        "item_476a9P",
+        "item_w8F6Y4",
+        "item_4aTpJX",
+        "item_AaaWMk",
+        "item_7keTfb",
+        "item_ikyhjT"
+      ],
+      "disabled": true,
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "large",
+        "subheading": "",
+        "title": "Riders with IN 10",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "store_features_bxUkkE": {
+      "type": "store-features",
+      "blocks": {
+        "icon_PLCgE3": {
+          "type": "icon",
+          "settings": {
+            "icon": "shopify://shop_images/Priority_Customer_Support.svg",
+            "content": "Customer Service\nLifetime customer support."
+          }
+        },
+        "icon_pRwNj8": {
+          "type": "icon",
+          "settings": {
+            "icon": "shopify://shop_images/Free_Shipping.svg",
+            "content": "Fast Shipping\n3 - 7 business days."
+          }
+        },
+        "icon_6pUANB": {
+          "type": "icon",
+          "settings": {
+            "icon": "shopify://shop_images/1_Year_Warranty.svg",
+            "content": "Hassle-free Warranty\n12-Month Warranty Period."
+          }
+        },
+        "icon_PHtU6b": {
+          "type": "icon",
+          "settings": {
+            "icon": "shopify://shop_images/Secure_Payment.svg",
+            "content": "Secure Payment\nBuy with confidence."
+          }
+        }
+      },
+      "block_order": [
+        "icon_PLCgE3",
+        "icon_pRwNj8",
+        "icon_6pUANB",
+        "icon_PHtU6b"
+      ],
+      "name": "Store Features",
+      "settings": {
+        "title": "Join Our Facebook Group",
+        "btn_txt": "Join Now",
+        "link": "https://www.facebook.com/groups/yozmaoglobal",
+        "background": "#ffffff",
+        "bg_img": "shopify://shop_images/132e60ce112545030e689bd163a97304bd180160ce34f0885987d41f98fe6956_46138888-abf0-485a-b22a-a3805c20650e.png",
+        "bg_img_mb": "shopify://shop_images/output-_5_d016b8e3-49a5-4b77-8797-d72691060ac5.jpg",
+        "background_gradient": "",
+        "text_color": "#000000",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "before_after_image_aDcYDV": {
+      "type": "before-after-image",
+      "disabled": true,
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "before_image": "shopify://shop_images/kv-1299-1010_jpg.png",
+        "after_image": "shopify://shop_images/146nm_9c9e0f55-a56b-46a4-8a42-96a7cbaee2d5.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 52,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "products_compare_2508_NkbwbN": {
+      "type": "products-compare-2508",
+      "blocks": {
+        "item_W8PBB9": {
+          "type": "item",
+          "settings": {
+            "pr": "yozma-in-10-charging-station",
+            "list": "750W\n85 Nm\n48V13AH\n5-6 Hours\nSuspension Front Fork\nAluminum Alloy\n20 x 4.0'' Fat Tire\nMechanical Disc Brake\n160 mm Front & Rear\nShimano 7-speed\n32 KG\n180 KG\n155-190 cm",
+            "bg_color": "#f2f2f2",
+            "pr_price": "10￥"
+          }
+        },
+        "item_bJpwjT": {
+          "type": "item",
+          "settings": {
+            "pr": "yozma-in-10-battery",
+            "list": "750W\n85 Nm\n48V13AH\n5-6 Hours\nSuspension Front Fork\nAluminum Alloy\n20 x 4.0'' Fat Tire\nMechanical Disc Brake\n160 mm Front & Rear\nShimano 7-speed\n32 KG\n180 KG\n155-190 cm",
+            "bg_color": "",
+            "pr_price": ""
+          }
+        },
+        "item_YP4Fbd": {
+          "type": "item",
+          "settings": {
+            "pr": "yozma-in-10-battery",
+            "list": "750W\n85 Nm\n48V13AH\n5-6 Hours\nSuspension Front Fork\nAluminum Alloy\n20 x 4.0'' Fat Tire\nMechanical Disc Brake\n160 mm Front & Rear\nShimano 7-speed\n32 KG\n180 KG\n155-190 cm",
+            "bg_color": "",
+            "pr_price": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_W8PBB9",
+        "item_bJpwjT",
+        "item_YP4Fbd"
+      ],
+      "disabled": true,
+      "name": "Products compare",
+      "settings": {
+        "first_list": "Motor\nTorque\nBattery\nCharging Time\nFork\nFrame\nTire\nBrakes\nRotors\nDrivetrain\nNet Weight\nPayload\nRider Height",
+        "pc_h": "300",
+        "mb_h": "200",
+        "full_width": false,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_grid_U9ikwA": {
+      "type": "media-grid",
+      "blocks": {
+        "image_CUt7bg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Frame_128720997.png",
+            "title": "Automotive Grade Chip Battery",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-end text-end",
+            "desktop_column_span_mb": 1,
+            "desktop_row_span_mb": 2,
+            "desktop_column_span": 1,
+            "desktop_row_span": 3,
+            "desktop_text_position": "sm:place-self-end sm:text-end",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_LxrWmx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Frame_128720999.png",
+            "title": "Motor Style Seat with Quick Release",
+            "heading_tag": "h5",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-start-center text-center",
+            "desktop_column_span_mb": 2,
+            "desktop_row_span_mb": 1,
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-start-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_6pG9LX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Frame_128721000.png",
+            "title": "More readable, Colorful\nSmart Display",
+            "heading_tag": "h6",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_column_span_mb": 2,
+            "desktop_row_span_mb": 1,
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_j3xnjK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Frame_128721001.png",
+            "title": "Nitrogen Air<br>Shock Absorber",
+            "heading_tag": "h3",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-start text-start",
+            "desktop_column_span_mb": 2,
+            "desktop_row_span_mb": 1,
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-start sm:text-start",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_LtVVWg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Frame_128720998.png",
+            "title": "2600W Mid-drive Motor",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-end-start text-start",
+            "desktop_column_span_mb": 2,
+            "desktop_row_span_mb": 2,
+            "desktop_column_span": 1,
+            "desktop_row_span": 3,
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_NWHfGf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Frame_128721002.png",
+            "title": "Adjustable<br> Kickstand",
+            "heading_tag": "h5",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_column_span_mb": 2,
+            "desktop_row_span_mb": 2,
+            "desktop_column_span": 1,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_U9FpNk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Frame_128721005.png",
+            "title": "Nitrogen Air<br> Shock Absorber",
+            "heading_tag": "h5",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_column_span_mb": 1,
+            "desktop_row_span_mb": 2,
+            "desktop_column_span": 1,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_wPrCGg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Frame_128721003.png",
+            "title": "Adjustable Kickstand",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-end-center text-center",
+            "desktop_column_span_mb": 1,
+            "desktop_row_span_mb": 2,
+            "desktop_column_span": 1,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_VzGrHX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Frame_128721004.png",
+            "title": "Dual-size Puncture \nResistant Fat Tires",
+            "heading_tag": "h5",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center-start text-start",
+            "desktop_column_span_mb": 1,
+            "desktop_row_span_mb": 2,
+            "desktop_column_span": 1,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center-start sm:text-start",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_CUt7bg",
+        "image_LxrWmx",
+        "image_6pG9LX",
+        "image_j3xnjK",
+        "image_LtVVWg",
+        "image_NWHfGf",
+        "image_U9FpNk",
+        "image_wPrCGg",
+        "image_VzGrHX"
+      ],
+      "disabled": true,
+      "name": "Media grid",
+      "settings": {
+        "full_width": false,
+        "reduce_width": false,
+        "grid_gap": "sm",
+        "desktop_row_height": 150,
+        "mobile_row_height": 120,
+        "background": "",
+        "background_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow_xYHx4G",
+    "image_with_text_overlay_EJYC7z",
+    "countdown_zKnhDT",
+    "newsletter_bpkTDw",
+    "video_CKdi7n",
+    "rich_text_TdPJQE",
+    "multicolumn_slide_2508_m8TBz7",
+    "feature_chart_RFnqYz",
+    "multicolumn_slide_2508_NQ7iEX",
+    "section-10",
+    "1756278725ce78192a",
+    "1756281249d3110547",
+    "multiple_images_with_text_R4U9kq",
+    "multi_column_4gWEkd",
+    "media_grid_w7c9Wj",
+    "image_link_blocks_QHKndz",
+    "store_features_bxUkkE",
+    "before_after_image_aDcYDV",
+    "products_compare_2508_NkbwbN",
+    "media_grid_U9ikwA"
+  ]
+}
